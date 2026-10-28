@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => {
   return {
     plugins: [react()],
     // Trên Vercel, base thường là '/'
-    base: '/',
+    base: '/AI-ENGLISH-DV/',
     define: {
       // Existing Gemini features and audio transcription share the same configured key.
       'process.env.API_KEY': JSON.stringify(apiKey),
