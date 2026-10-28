@@ -1,0 +1,5168 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "I like apples.",
+    "meaning": "Tôi thích táo."
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "Do you like fruit?",
+    "meaning": "Bạn có thích trái cây không?"
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "This is good food.",
+    "meaning": "Đây là đồ ăn ngon."
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "I want water.",
+    "meaning": "Tôi muốn nước."
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "She eats rice.",
+    "meaning": "Cô ấy ăn cơm."
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "He drinks milk.",
+    "meaning": "Anh ấy uống sữa."
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "We need bread.",
+    "meaning": "Chúng ta cần bánh mì."
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "They like chicken.",
+    "meaning": "Họ thích gà."
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "I want some juice.",
+    "meaning": "Tôi muốn một ít nước ép."
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "Is this a cake?",
+    "meaning": "Đây có phải là bánh không?"
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "Yes, it's cake.",
+    "meaning": "Vâng, đó là bánh."
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "I eat breakfast.",
+    "meaning": "Tôi ăn sáng."
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "What is for lunch?",
+    "meaning": "Ăn trưa có gì?"
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "Dinner is ready.",
+    "meaning": "Bữa tối đã sẵn sàng."
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "I like pizza.",
+    "meaning": "Tôi thích pizza."
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "Do you want tea?",
+    "meaning": "Bạn có muốn trà không?"
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "No, thank you.",
+    "meaning": "Không, cảm ơn bạn."
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "I like coffee.",
+    "meaning": "Tôi thích cà phê."
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "This food is tasty.",
+    "meaning": "Món ăn này ngon."
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "I am hungry.",
+    "meaning": "Tôi đói."
+  },
+  {
+    "id": 21,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "Are you thirsty?",
+    "meaning": "Bạn có khát không?"
+  },
+  {
+    "id": 22,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "I want a sandwich.",
+    "meaning": "Tôi muốn một cái bánh mì kẹp."
+  },
+  {
+    "id": 23,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "He wants an egg.",
+    "meaning": "Anh ấy muốn một quả trứng."
+  },
+  {
+    "id": 24,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "We eat vegetables.",
+    "meaning": "Chúng ta ăn rau."
+  },
+  {
+    "id": 25,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "She likes fish.",
+    "meaning": "Cô ấy thích cá."
+  },
+  {
+    "id": 26,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "I need a plate.",
+    "meaning": "Tôi cần một cái đĩa."
+  },
+  {
+    "id": 27,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "Where is the spoon?",
+    "meaning": "Cái thìa ở đâu?"
+  },
+  {
+    "id": 28,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "Pass the salt, please.",
+    "meaning": "Làm ơn chuyển muối."
+  },
+  {
+    "id": 29,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "I like sweet food.",
+    "meaning": "Tôi thích đồ ăn ngọt."
+  },
+  {
+    "id": 30,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "Do you cook often?",
+    "meaning": "Bạn có thường nấu ăn không?"
+  },
+  {
+    "id": 31,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "I buy groceries.",
+    "meaning": "Tôi mua đồ tạp hóa."
+  },
+  {
+    "id": 32,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "What is your favorite?",
+    "meaning": "Món yêu thích của bạn là gì?"
+  },
+  {
+    "id": 33,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "I love pasta.",
+    "meaning": "Tôi yêu mì ống."
+  },
+  {
+    "id": 34,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "This soup is warm.",
+    "meaning": "Món súp này ấm."
+  },
+  {
+    "id": 35,
+    "level": "A1",
+    "topic": "Food",
+    "cau_mau": "I drink water daily.",
+    "meaning": "Tôi uống nước hàng ngày."
+  },
+  {
+    "id": 36,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "I need a shirt.",
+    "meaning": "Tôi cần một cái áo."
+  },
+  {
+    "id": 37,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "How much is it?",
+    "meaning": "Cái này giá bao nhiêu?"
+  },
+  {
+    "id": 38,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "I like this hat.",
+    "meaning": "Tôi thích cái mũ này."
+  },
+  {
+    "id": 39,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "Do you have a bag?",
+    "meaning": "Bạn có cái túi nào không?"
+  },
+  {
+    "id": 40,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "Can I try this on?",
+    "meaning": "Tôi có thể thử cái này không?"
+  },
+  {
+    "id": 41,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "Where is the changing room?",
+    "meaning": "Phòng thử đồ ở đâu?"
+  },
+  {
+    "id": 42,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "It's too small.",
+    "meaning": "Nó quá nhỏ."
+  },
+  {
+    "id": 43,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "Do you have a bigger size?",
+    "meaning": "Bạn có cỡ lớn hơn không?"
+  },
+  {
+    "id": 44,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "I will take it.",
+    "meaning": "Tôi sẽ lấy nó."
+  },
+  {
+    "id": 45,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "I want to pay now.",
+    "meaning": "Tôi muốn thanh toán ngay."
+  },
+  {
+    "id": 46,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "Cash or card?",
+    "meaning": "Tiền mặt hay thẻ?"
+  },
+  {
+    "id": 47,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "Here is your change.",
+    "meaning": "Tiền thừa của bạn đây."
+  },
+  {
+    "id": 48,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "Thank you for shopping.",
+    "meaning": "Cảm ơn bạn đã mua sắm."
+  },
+  {
+    "id": 49,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "Can I help you?",
+    "meaning": "Tôi có thể giúp gì bạn?"
+  },
+  {
+    "id": 50,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "I am just looking.",
+    "meaning": "Tôi chỉ xem thôi."
+  },
+  {
+    "id": 51,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "This is a good price.",
+    "meaning": "Đây là một mức giá tốt."
+  },
+  {
+    "id": 52,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "I like these shoes.",
+    "meaning": "Tôi thích đôi giày này."
+  },
+  {
+    "id": 53,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "Do you have other colors?",
+    "meaning": "Bạn có màu khác không?"
+  },
+  {
+    "id": 54,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "I need some food.",
+    "meaning": "Tôi cần một ít thức ăn."
+  },
+  {
+    "id": 55,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "Where is the market?",
+    "meaning": "Chợ ở đâu?"
+  },
+  {
+    "id": 56,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "I want apples.",
+    "meaning": "Tôi muốn táo."
+  },
+  {
+    "id": 57,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "How many bananas?",
+    "meaning": "Bao nhiêu quả chuối?"
+  },
+  {
+    "id": 58,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "I need some milk.",
+    "meaning": "Tôi cần một ít sữa."
+  },
+  {
+    "id": 59,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "Is this fresh?",
+    "meaning": "Cái này tươi không?"
+  },
+  {
+    "id": 60,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "It's very fresh.",
+    "meaning": "Nó rất tươi."
+  },
+  {
+    "id": 61,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "I want bread.",
+    "meaning": "Tôi muốn bánh mì."
+  },
+  {
+    "id": 62,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "Do you have eggs?",
+    "meaning": "Bạn có trứng không?"
+  },
+  {
+    "id": 63,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "I need some water.",
+    "meaning": "Tôi cần một ít nước."
+  },
+  {
+    "id": 64,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "This looks good.",
+    "meaning": "Cái này trông ngon."
+  },
+  {
+    "id": 65,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "I will buy this.",
+    "meaning": "Tôi sẽ mua cái này."
+  },
+  {
+    "id": 66,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "How much for all?",
+    "meaning": "Tất cả bao nhiêu tiền?"
+  },
+  {
+    "id": 67,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "I pay with card.",
+    "meaning": "Tôi thanh toán bằng thẻ."
+  },
+  {
+    "id": 68,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "Can I get a receipt?",
+    "meaning": "Tôi có thể lấy hóa đơn không?"
+  },
+  {
+    "id": 69,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "Goodbye, see you!",
+    "meaning": "Tạm biệt, hẹn gặp lại!"
+  },
+  {
+    "id": 70,
+    "level": "A1",
+    "topic": "Shopping",
+    "cau_mau": "Come again soon.",
+    "meaning": "Hãy ghé lại sớm nhé."
+  },
+  {
+    "id": 71,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "I go to school.",
+    "meaning": "Tôi đi học."
+  },
+  {
+    "id": 72,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "She likes school.",
+    "meaning": "Cô ấy thích trường học."
+  },
+  {
+    "id": 73,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "He is a student.",
+    "meaning": "Anh ấy là một học sinh."
+  },
+  {
+    "id": 74,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "This is my book.",
+    "meaning": "Đây là cuốn sách của tôi."
+  },
+  {
+    "id": 75,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "Where is the class?",
+    "meaning": "Lớp học ở đâu?"
+  },
+  {
+    "id": 76,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "The bell rings.",
+    "meaning": "Chuông reo."
+  },
+  {
+    "id": 77,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "Let's study now.",
+    "meaning": "Chúng ta hãy học bây giờ."
+  },
+  {
+    "id": 78,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "I have a pen.",
+    "meaning": "Tôi có một cây bút."
+  },
+  {
+    "id": 79,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "She has a pencil.",
+    "meaning": "Cô ấy có một cây bút chì."
+  },
+  {
+    "id": 80,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "The teacher is here.",
+    "meaning": "Giáo viên ở đây."
+  },
+  {
+    "id": 81,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "What is this?",
+    "meaning": "Đây là cái gì?"
+  },
+  {
+    "id": 82,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "It's a school bag.",
+    "meaning": "Đó là một cặp sách."
+  },
+  {
+    "id": 83,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "Open your book.",
+    "meaning": "Mở sách của bạn ra."
+  },
+  {
+    "id": 84,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "Close your book.",
+    "meaning": "Đóng sách của bạn lại."
+  },
+  {
+    "id": 85,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "Sit down, please.",
+    "meaning": "Mời bạn ngồi xuống."
+  },
+  {
+    "id": 86,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "Stand up, please.",
+    "meaning": "Mời bạn đứng lên."
+  },
+  {
+    "id": 87,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "Write your name.",
+    "meaning": "Viết tên của bạn."
+  },
+  {
+    "id": 88,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "Read this word.",
+    "meaning": "Đọc từ này."
+  },
+  {
+    "id": 89,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "My class is fun.",
+    "meaning": "Lớp tôi vui lắm."
+  },
+  {
+    "id": 90,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "Do you like school?",
+    "meaning": "Bạn có thích trường học không?"
+  },
+  {
+    "id": 91,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "Yes, I do.",
+    "meaning": "Vâng, tôi có."
+  },
+  {
+    "id": 92,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "No, I don't.",
+    "meaning": "Không, tôi không."
+  },
+  {
+    "id": 93,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "He is my friend.",
+    "meaning": "Anh ấy là bạn của tôi."
+  },
+  {
+    "id": 94,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "We learn English.",
+    "meaning": "Chúng tôi học tiếng Anh."
+  },
+  {
+    "id": 95,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "This is a desk.",
+    "meaning": "Đây là một cái bàn."
+  },
+  {
+    "id": 96,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "That is a chair.",
+    "meaning": "Kia là một cái ghế."
+  },
+  {
+    "id": 97,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "The board is black.",
+    "meaning": "Bảng màu đen."
+  },
+  {
+    "id": 98,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "Listen to me.",
+    "meaning": "Hãy nghe tôi nói."
+  },
+  {
+    "id": 99,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "Ask a question.",
+    "meaning": "Đặt một câu hỏi."
+  },
+  {
+    "id": 100,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "Answer the question.",
+    "meaning": "Trả lời câu hỏi."
+  },
+  {
+    "id": 101,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "Time for lunch.",
+    "meaning": "Đến giờ ăn trưa."
+  },
+  {
+    "id": 102,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "Go to the library.",
+    "meaning": "Đi đến thư viện."
+  },
+  {
+    "id": 103,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "Play in the yard.",
+    "meaning": "Chơi ở sân."
+  },
+  {
+    "id": 104,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "We are classmates.",
+    "meaning": "Chúng tôi là bạn cùng lớp."
+  },
+  {
+    "id": 105,
+    "level": "A1",
+    "topic": "School",
+    "cau_mau": "I love my school.",
+    "meaning": "Tôi yêu trường học của tôi."
+  },
+  {
+    "id": 106,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "I like to travel.",
+    "meaning": "Tôi thích đi du lịch."
+  },
+  {
+    "id": 107,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "Where is the station?",
+    "meaning": "Ga ở đâu?"
+  },
+  {
+    "id": 108,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "I need a ticket.",
+    "meaning": "Tôi cần một vé."
+  },
+  {
+    "id": 109,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "Is this the bus?",
+    "meaning": "Đây là xe buýt phải không?"
+  },
+  {
+    "id": 110,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "I want to go.",
+    "meaning": "Tôi muốn đi."
+  },
+  {
+    "id": 111,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "Do you have a map?",
+    "meaning": "Bạn có bản đồ không?"
+  },
+  {
+    "id": 112,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "I am lost.",
+    "meaning": "Tôi bị lạc."
+  },
+  {
+    "id": 113,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "Where are you from?",
+    "meaning": "Bạn từ đâu đến?"
+  },
+  {
+    "id": 114,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "I am from Vietnam.",
+    "meaning": "Tôi đến từ Việt Nam."
+  },
+  {
+    "id": 115,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "I like this city.",
+    "meaning": "Tôi thích thành phố này."
+  },
+  {
+    "id": 116,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "Is it far?",
+    "meaning": "Nó có xa không?"
+  },
+  {
+    "id": 117,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "How do I get there?",
+    "meaning": "Làm sao tôi đến đó?"
+  },
+  {
+    "id": 118,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "I need a taxi.",
+    "meaning": "Tôi cần một chiếc taxi."
+  },
+  {
+    "id": 119,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "What is this place?",
+    "meaning": "Đây là nơi nào?"
+  },
+  {
+    "id": 120,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "It is beautiful here.",
+    "meaning": "Ở đây đẹp quá."
+  },
+  {
+    "id": 121,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "I want to see more.",
+    "meaning": "Tôi muốn xem thêm."
+  },
+  {
+    "id": 122,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "Do you speak English?",
+    "meaning": "Bạn có nói tiếng Anh không?"
+  },
+  {
+    "id": 123,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "A little bit.",
+    "meaning": "Một chút."
+  },
+  {
+    "id": 124,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "Thank you very much.",
+    "meaning": "Cảm ơn rất nhiều."
+  },
+  {
+    "id": 125,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "You are welcome.",
+    "meaning": "Không có gì."
+  },
+  {
+    "id": 126,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "Good morning!",
+    "meaning": "Chào buổi sáng!"
+  },
+  {
+    "id": 127,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "Good evening!",
+    "meaning": "Chào buổi tối!"
+  },
+  {
+    "id": 128,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "Where is the hotel?",
+    "meaning": "Khách sạn ở đâu?"
+  },
+  {
+    "id": 129,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "I have a reservation.",
+    "meaning": "Tôi có đặt phòng."
+  },
+  {
+    "id": 130,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "The room is nice.",
+    "meaning": "Phòng này đẹp."
+  },
+  {
+    "id": 131,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "I want to eat.",
+    "meaning": "Tôi muốn ăn."
+  },
+  {
+    "id": 132,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "Where is a restaurant?",
+    "meaning": "Nhà hàng ở đâu?"
+  },
+  {
+    "id": 133,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "I need water.",
+    "meaning": "Tôi cần nước."
+  },
+  {
+    "id": 134,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "How much is this?",
+    "meaning": "Cái này bao nhiêu?"
+  },
+  {
+    "id": 135,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "I want to buy.",
+    "meaning": "Tôi muốn mua."
+  },
+  {
+    "id": 136,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "Can you show me?",
+    "meaning": "Bạn có thể chỉ cho tôi không?"
+  },
+  {
+    "id": 137,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "Have a good trip.",
+    "meaning": "Chúc bạn chuyến đi tốt đẹp."
+  },
+  {
+    "id": 138,
+    "level": "A1",
+    "topic": "Travel",
+    "cau_mau": "See you soon.",
+    "meaning": "Hẹn sớm gặp lại."
+  },
+  {
+    "id": 139,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "This is my family.",
+    "meaning": "Đây là gia đình của tôi."
+  },
+  {
+    "id": 140,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "I love my family.",
+    "meaning": "Tôi yêu gia đình của tôi."
+  },
+  {
+    "id": 141,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "Who is this?",
+    "meaning": "Đây là ai?"
+  },
+  {
+    "id": 142,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "She is my mom.",
+    "meaning": "Cô ấy là mẹ của tôi."
+  },
+  {
+    "id": 143,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "He is my dad.",
+    "meaning": "Anh ấy là bố của tôi."
+  },
+  {
+    "id": 144,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "I have a brother.",
+    "meaning": "Tôi có một người anh/em trai."
+  },
+  {
+    "id": 145,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "Do you have a sister?",
+    "meaning": "Bạn có chị/em gái không?"
+  },
+  {
+    "id": 146,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "My mom is happy.",
+    "meaning": "Mẹ tôi vui vẻ."
+  },
+  {
+    "id": 147,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "My dad is tall.",
+    "meaning": "Bố tôi cao."
+  },
+  {
+    "id": 148,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "Is he your grandpa?",
+    "meaning": "Ông ấy là ông của bạn phải không?"
+  },
+  {
+    "id": 149,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "She is my grandma.",
+    "meaning": "Bà ấy là bà của tôi."
+  },
+  {
+    "id": 150,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "They are my parents.",
+    "meaning": "Họ là bố mẹ của tôi."
+  },
+  {
+    "id": 151,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "I have two sisters.",
+    "meaning": "Tôi có hai chị/em gái."
+  },
+  {
+    "id": 152,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "We are a family.",
+    "meaning": "Chúng tôi là một gia đình."
+  },
+  {
+    "id": 153,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "My brother is young.",
+    "meaning": "Anh/em trai tôi trẻ."
+  },
+  {
+    "id": 154,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "My sister is kind.",
+    "meaning": "Chị/em gái tôi tốt bụng."
+  },
+  {
+    "id": 155,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "Is your mom home?",
+    "meaning": "Mẹ bạn có ở nhà không?"
+  },
+  {
+    "id": 156,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "My family is big.",
+    "meaning": "Gia đình tôi đông người."
+  },
+  {
+    "id": 157,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "My family is small.",
+    "meaning": "Gia đình tôi ít người."
+  },
+  {
+    "id": 158,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "I live with them.",
+    "meaning": "Tôi sống với họ."
+  },
+  {
+    "id": 159,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "We eat together.",
+    "meaning": "Chúng tôi ăn cùng nhau."
+  },
+  {
+    "id": 160,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "My aunt is nice.",
+    "meaning": "Dì/cô của tôi tốt bụng."
+  },
+  {
+    "id": 161,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "My uncle is funny.",
+    "meaning": "Chú/cậu của tôi vui tính."
+  },
+  {
+    "id": 162,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "This is my cousin.",
+    "meaning": "Đây là anh/chị/em họ của tôi."
+  },
+  {
+    "id": 163,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "How old is he?",
+    "meaning": "Anh ấy bao nhiêu tuổi?"
+  },
+  {
+    "id": 164,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "He is five.",
+    "meaning": "Anh ấy năm tuổi."
+  },
+  {
+    "id": 165,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "She is ten.",
+    "meaning": "Cô ấy mười tuổi."
+  },
+  {
+    "id": 166,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "We play games.",
+    "meaning": "Chúng tôi chơi trò chơi."
+  },
+  {
+    "id": 167,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "I love my grandma.",
+    "meaning": "Tôi yêu bà của tôi."
+  },
+  {
+    "id": 168,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "I love my grandpa.",
+    "meaning": "Tôi yêu ông của tôi."
+  },
+  {
+    "id": 169,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "Family is important.",
+    "meaning": "Gia đình quan trọng."
+  },
+  {
+    "id": 170,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "We are happy.",
+    "meaning": "Chúng tôi hạnh phúc."
+  },
+  {
+    "id": 171,
+    "level": "A1",
+    "topic": "Family",
+    "cau_mau": "My parents love me.",
+    "meaning": "Bố mẹ tôi yêu tôi."
+  },
+  {
+    "id": 172,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "I am sick.",
+    "meaning": "Tôi bị ốm."
+  },
+  {
+    "id": 173,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "I need a doctor.",
+    "meaning": "Tôi cần một bác sĩ."
+  },
+  {
+    "id": 174,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "Where is the hospital?",
+    "meaning": "Bệnh viện ở đâu?"
+  },
+  {
+    "id": 175,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "Call an ambulance.",
+    "meaning": "Gọi xe cấp cứu."
+  },
+  {
+    "id": 176,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "I have a fever.",
+    "meaning": "Tôi bị sốt."
+  },
+  {
+    "id": 177,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "My head hurts.",
+    "meaning": "Đầu tôi đau."
+  },
+  {
+    "id": 178,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "My arm hurts.",
+    "meaning": "Cánh tay tôi đau."
+  },
+  {
+    "id": 179,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "I feel weak.",
+    "meaning": "Tôi cảm thấy yếu."
+  },
+  {
+    "id": 180,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "Is this the waiting room?",
+    "meaning": "Đây có phải phòng chờ không?"
+  },
+  {
+    "id": 181,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "I have an appointment.",
+    "meaning": "Tôi có một cuộc hẹn."
+  },
+  {
+    "id": 182,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "What is your name?",
+    "meaning": "Tên của bạn là gì?"
+  },
+  {
+    "id": 183,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "Please sit down.",
+    "meaning": "Mời bạn ngồi xuống."
+  },
+  {
+    "id": 184,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "How are you?",
+    "meaning": "Bạn khỏe không?"
+  },
+  {
+    "id": 185,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "I feel better.",
+    "meaning": "Tôi cảm thấy tốt hơn."
+  },
+  {
+    "id": 186,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "Take this medicine.",
+    "meaning": "Uống thuốc này."
+  },
+  {
+    "id": 187,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "Drink more water.",
+    "meaning": "Uống thêm nước."
+  },
+  {
+    "id": 188,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "Rest well.",
+    "meaning": "Nghỉ ngơi tốt."
+  },
+  {
+    "id": 189,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "When can I leave?",
+    "meaning": "Khi nào tôi có thể rời đi?"
+  },
+  {
+    "id": 190,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "Thank you, doctor.",
+    "meaning": "Cảm ơn bác sĩ."
+  },
+  {
+    "id": 191,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "I need help.",
+    "meaning": "Tôi cần giúp đỡ."
+  },
+  {
+    "id": 192,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "Where is the nurse?",
+    "meaning": "Y tá ở đâu?"
+  },
+  {
+    "id": 193,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "I need a bed.",
+    "meaning": "Tôi cần một giường."
+  },
+  {
+    "id": 194,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "My stomach hurts.",
+    "meaning": "Bụng tôi đau."
+  },
+  {
+    "id": 195,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "I cannot eat.",
+    "meaning": "Tôi không thể ăn."
+  },
+  {
+    "id": 196,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "I cannot sleep.",
+    "meaning": "Tôi không thể ngủ."
+  },
+  {
+    "id": 197,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "This is an emergency.",
+    "meaning": "Đây là trường hợp khẩn cấp."
+  },
+  {
+    "id": 198,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "Do you feel pain?",
+    "meaning": "Bạn có cảm thấy đau không?"
+  },
+  {
+    "id": 199,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "Please wait here.",
+    "meaning": "Xin hãy đợi ở đây."
+  },
+  {
+    "id": 200,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "I am cold.",
+    "meaning": "Tôi bị lạnh."
+  },
+  {
+    "id": 201,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "I am hot.",
+    "meaning": "Tôi bị nóng."
+  },
+  {
+    "id": 202,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "Is it serious?",
+    "meaning": "Nó có nghiêm trọng không?"
+  },
+  {
+    "id": 203,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "I need pain relief.",
+    "meaning": "Tôi cần giảm đau."
+  },
+  {
+    "id": 204,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "Show me your arm.",
+    "meaning": "Cho tôi xem cánh tay của bạn."
+  },
+  {
+    "id": 205,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "Open your mouth.",
+    "meaning": "Mở miệng ra."
+  },
+  {
+    "id": 206,
+    "level": "A1",
+    "topic": "Hospital",
+    "cau_mau": "Breathe deeply.",
+    "meaning": "Hít thở sâu."
+  },
+  {
+    "id": 207,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "Table for two, please.",
+    "meaning": "Bàn cho hai người, làm ơn."
+  },
+  {
+    "id": 208,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "Menu, please.",
+    "meaning": "Thực đơn, làm ơn."
+  },
+  {
+    "id": 209,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "This food is good.",
+    "meaning": "Món ăn này ngon."
+  },
+  {
+    "id": 210,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "The bill, please.",
+    "meaning": "Hóa đơn, làm ơn."
+  },
+  {
+    "id": 211,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "Do you have bread?",
+    "meaning": "Bạn có bánh mì không?"
+  },
+  {
+    "id": 212,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "Where is the toilet?",
+    "meaning": "Nhà vệ sinh ở đâu?"
+  },
+  {
+    "id": 213,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "Thank you for meal.",
+    "meaning": "Cảm ơn bữa ăn."
+  },
+  {
+    "id": 214,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "I need a spoon.",
+    "meaning": "Tôi cần một cái thìa."
+  },
+  {
+    "id": 215,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "Is this free?",
+    "meaning": "Cái này miễn phí à?"
+  },
+  {
+    "id": 216,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "Can I pay now?",
+    "meaning": "Tôi có thể trả tiền bây giờ không?"
+  },
+  {
+    "id": 217,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "This tastes good.",
+    "meaning": "Cái này ngon."
+  },
+  {
+    "id": 218,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "I want more.",
+    "meaning": "Tôi muốn thêm nữa."
+  },
+  {
+    "id": 219,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "Can I sit here?",
+    "meaning": "Tôi có thể ngồi đây không?"
+  },
+  {
+    "id": 220,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "I like this dish.",
+    "meaning": "Tôi thích món này."
+  },
+  {
+    "id": 221,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "Do you have a table?",
+    "meaning": "Bạn có bàn không?"
+  },
+  {
+    "id": 222,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "Just a moment, please.",
+    "meaning": "Xin chờ một chút."
+  },
+  {
+    "id": 223,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "Waiter, over here!",
+    "meaning": "Người phục vụ, ở đây!"
+  },
+  {
+    "id": 224,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "What do you recommend?",
+    "meaning": "Bạn giới thiệu món gì?"
+  },
+  {
+    "id": 225,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "I will have this.",
+    "meaning": "Tôi sẽ lấy món này."
+  },
+  {
+    "id": 226,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "No sugar, please.",
+    "meaning": "Không đường, làm ơn."
+  },
+  {
+    "id": 227,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "A glass of milk.",
+    "meaning": "Một ly sữa."
+  },
+  {
+    "id": 228,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "Is it spicy?",
+    "meaning": "Nó có cay không?"
+  },
+  {
+    "id": 229,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "I am ready to order.",
+    "meaning": "Tôi sẵn sàng gọi món."
+  },
+  {
+    "id": 230,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "Enjoy your meal!",
+    "meaning": "Chúc ngon miệng!"
+  },
+  {
+    "id": 231,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "We are three people.",
+    "meaning": "Chúng tôi có ba người."
+  },
+  {
+    "id": 232,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "This is very hot.",
+    "meaning": "Cái này rất nóng."
+  },
+  {
+    "id": 233,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "I need a napkin.",
+    "meaning": "Tôi cần một cái khăn ăn."
+  },
+  {
+    "id": 234,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "Do you have a fork?",
+    "meaning": "Bạn có một cái nĩa không?"
+  },
+  {
+    "id": 235,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "Can I get a knife?",
+    "meaning": "Tôi có thể lấy một con dao không?"
+  },
+  {
+    "id": 236,
+    "level": "A1",
+    "topic": "Restaurant",
+    "cau_mau": "I want no salt.",
+    "meaning": "Tôi không muốn muối."
+  },
+  {
+    "id": 237,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "I need a room.",
+    "meaning": "Tôi cần một phòng."
+  },
+  {
+    "id": 238,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "Do you have a room?",
+    "meaning": "Bạn có phòng không?"
+  },
+  {
+    "id": 239,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "Check-in is 3 PM.",
+    "meaning": "Giờ nhận phòng là 3 giờ chiều."
+  },
+  {
+    "id": 240,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "Can I have a key?",
+    "meaning": "Tôi có thể có chìa khóa không?"
+  },
+  {
+    "id": 241,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "Where is the elevator?",
+    "meaning": "Thang máy ở đâu?"
+  },
+  {
+    "id": 242,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "This room is nice.",
+    "meaning": "Phòng này đẹp."
+  },
+  {
+    "id": 243,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "I need towels.",
+    "meaning": "Tôi cần khăn tắm."
+  },
+  {
+    "id": 244,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "Is breakfast included?",
+    "meaning": "Bữa sáng có bao gồm không?"
+  },
+  {
+    "id": 245,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "What is my room number?",
+    "meaning": "Số phòng của tôi là gì?"
+  },
+  {
+    "id": 246,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "The toilet is broken.",
+    "meaning": "Nhà vệ sinh bị hỏng."
+  },
+  {
+    "id": 247,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "Can I get Wi-Fi?",
+    "meaning": "Tôi có thể có Wi-Fi không?"
+  },
+  {
+    "id": 248,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "I want to check out.",
+    "meaning": "Tôi muốn trả phòng."
+  },
+  {
+    "id": 249,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "Please clean my room.",
+    "meaning": "Làm ơn dọn phòng giúp tôi."
+  },
+  {
+    "id": 250,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "Do you have a gym?",
+    "meaning": "Khách sạn có phòng gym không?"
+  },
+  {
+    "id": 251,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "Where is the pool?",
+    "meaning": "Hồ bơi ở đâu?"
+  },
+  {
+    "id": 252,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "Do you accept cards?",
+    "meaning": "Bạn có chấp nhận thẻ không?"
+  },
+  {
+    "id": 253,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "Is there a restaurant?",
+    "meaning": "Có nhà hàng không?"
+  },
+  {
+    "id": 254,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "My room is cold.",
+    "meaning": "Phòng tôi lạnh."
+  },
+  {
+    "id": 255,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "My room is hot.",
+    "meaning": "Phòng tôi nóng."
+  },
+  {
+    "id": 256,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "I need more blankets.",
+    "meaning": "Tôi cần thêm chăn."
+  },
+  {
+    "id": 257,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "Can I have water?",
+    "meaning": "Tôi có thể có nước không?"
+  },
+  {
+    "id": 258,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "The TV is not working.",
+    "meaning": "TV không hoạt động."
+  },
+  {
+    "id": 259,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "Do you have room service?",
+    "meaning": "Bạn có dịch vụ phòng không?"
+  },
+  {
+    "id": 260,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "Can you call a taxi?",
+    "meaning": "Bạn có thể gọi taxi không?"
+  },
+  {
+    "id": 261,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "What time is breakfast?",
+    "meaning": "Mấy giờ có bữa sáng?"
+  },
+  {
+    "id": 262,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "Where is the lobby?",
+    "meaning": "Sảnh đợi ở đâu?"
+  },
+  {
+    "id": 263,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "I need an extra bed.",
+    "meaning": "Tôi cần thêm giường."
+  },
+  {
+    "id": 264,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "The light is off.",
+    "meaning": "Đèn bị tắt."
+  },
+  {
+    "id": 265,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "Can I leave my bags?",
+    "meaning": "Tôi có thể để túi xách không?"
+  },
+  {
+    "id": 266,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "Good morning.",
+    "meaning": "Chào buổi sáng."
+  },
+  {
+    "id": 267,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "Good evening.",
+    "meaning": "Chào buổi tối."
+  },
+  {
+    "id": 268,
+    "level": "A1",
+    "topic": "Hotel",
+    "cau_mau": "Thank you.",
+    "meaning": "Cảm ơn bạn."
+  },
+  {
+    "id": 269,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "It is sunny.",
+    "meaning": "Trời nắng."
+  },
+  {
+    "id": 270,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "What a nice day!",
+    "meaning": "Thật là một ngày đẹp trời!"
+  },
+  {
+    "id": 271,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "It's hot today.",
+    "meaning": "Hôm nay trời nóng."
+  },
+  {
+    "id": 272,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "Is it cold?",
+    "meaning": "Trời có lạnh không?"
+  },
+  {
+    "id": 273,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "Yes, it is cold.",
+    "meaning": "Vâng, trời lạnh."
+  },
+  {
+    "id": 274,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "No, it's warm.",
+    "meaning": "Không, trời ấm."
+  },
+  {
+    "id": 275,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "Is it raining?",
+    "meaning": "Trời đang mưa phải không?"
+  },
+  {
+    "id": 276,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "It is raining now.",
+    "meaning": "Bây giờ trời đang mưa."
+  },
+  {
+    "id": 277,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "It's cloudy outside.",
+    "meaning": "Bên ngoài trời nhiều mây."
+  },
+  {
+    "id": 278,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "The sky is blue.",
+    "meaning": "Bầu trời màu xanh."
+  },
+  {
+    "id": 279,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "Look at the sun!",
+    "meaning": "Nhìn mặt trời kìa!"
+  },
+  {
+    "id": 280,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "A big storm!",
+    "meaning": "Một cơn bão lớn!"
+  },
+  {
+    "id": 281,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "Is it windy?",
+    "meaning": "Trời có gió không?"
+  },
+  {
+    "id": 282,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "Yes, it's windy.",
+    "meaning": "Vâng, trời có gió."
+  },
+  {
+    "id": 283,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "I like sunny days.",
+    "meaning": "Tôi thích những ngày nắng."
+  },
+  {
+    "id": 284,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "Do you like rain?",
+    "meaning": "Bạn có thích mưa không?"
+  },
+  {
+    "id": 285,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "I don't like snow.",
+    "meaning": "Tôi không thích tuyết."
+  },
+  {
+    "id": 286,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "It might snow.",
+    "meaning": "Trời có thể có tuyết."
+  },
+  {
+    "id": 287,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "What's the weather?",
+    "meaning": "Thời tiết thế nào?"
+  },
+  {
+    "id": 288,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "It's foggy now.",
+    "meaning": "Bây giờ trời có sương mù."
+  },
+  {
+    "id": 289,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "The weather is good.",
+    "meaning": "Thời tiết tốt."
+  },
+  {
+    "id": 290,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "The weather is bad.",
+    "meaning": "Thời tiết xấu."
+  },
+  {
+    "id": 291,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "It's so humid.",
+    "meaning": "Trời thật ẩm ướt."
+  },
+  {
+    "id": 292,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "Is it dry?",
+    "meaning": "Trời có khô ráo không?"
+  },
+  {
+    "id": 293,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "It feels cool.",
+    "meaning": "Trời mát mẻ."
+  },
+  {
+    "id": 294,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "Very nice weather.",
+    "meaning": "Thời tiết rất đẹp."
+  },
+  {
+    "id": 295,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "Is it going to rain?",
+    "meaning": "Trời sắp mưa phải không?"
+  },
+  {
+    "id": 296,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "Maybe it will rain.",
+    "meaning": "Có lẽ trời sẽ mưa."
+  },
+  {
+    "id": 297,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "I see a rainbow.",
+    "meaning": "Tôi thấy cầu vồng."
+  },
+  {
+    "id": 298,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "What pretty clouds!",
+    "meaning": "Những đám mây thật đẹp!"
+  },
+  {
+    "id": 299,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "The wind blows hard.",
+    "meaning": "Gió thổi mạnh."
+  },
+  {
+    "id": 300,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "It's freezing outside.",
+    "meaning": "Bên ngoài trời đang đóng băng."
+  },
+  {
+    "id": 301,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "I need an umbrella.",
+    "meaning": "Tôi cần một cái ô."
+  },
+  {
+    "id": 302,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "Wear a warm coat.",
+    "meaning": "Mặc một chiếc áo khoác ấm."
+  },
+  {
+    "id": 303,
+    "level": "A1",
+    "topic": "Weather",
+    "cau_mau": "It's a lovely day.",
+    "meaning": "Đó là một ngày đáng yêu."
+  },
+  {
+    "id": 304,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "I like sports.",
+    "meaning": "Tôi thích thể thao."
+  },
+  {
+    "id": 305,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Do you play sports?",
+    "meaning": "Bạn có chơi thể thao không?"
+  },
+  {
+    "id": 306,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Yes, I play football.",
+    "meaning": "Vâng, tôi chơi bóng đá."
+  },
+  {
+    "id": 307,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Football is fun.",
+    "meaning": "Bóng đá rất vui."
+  },
+  {
+    "id": 308,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "I watch tennis.",
+    "meaning": "Tôi xem quần vợt."
+  },
+  {
+    "id": 309,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Tennis is great.",
+    "meaning": "Quần vợt thật tuyệt."
+  },
+  {
+    "id": 310,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "She runs fast.",
+    "meaning": "Cô ấy chạy nhanh."
+  },
+  {
+    "id": 311,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "He likes swimming.",
+    "meaning": "Anh ấy thích bơi lội."
+  },
+  {
+    "id": 312,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Swimming is good.",
+    "meaning": "Bơi lội tốt cho sức khỏe."
+  },
+  {
+    "id": 313,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "We play basketball.",
+    "meaning": "Chúng tôi chơi bóng rổ."
+  },
+  {
+    "id": 314,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Basketball is exciting.",
+    "meaning": "Bóng rổ rất thú vị."
+  },
+  {
+    "id": 315,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Do you bike?",
+    "meaning": "Bạn có đạp xe không?"
+  },
+  {
+    "id": 316,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Biking is healthy.",
+    "meaning": "Đạp xe tốt cho sức khỏe."
+  },
+  {
+    "id": 317,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "They love games.",
+    "meaning": "Họ thích trò chơi."
+  },
+  {
+    "id": 318,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Sports are healthy.",
+    "meaning": "Thể thao lành mạnh."
+  },
+  {
+    "id": 319,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "My favorite sport.",
+    "meaning": "Môn thể thao yêu thích của tôi."
+  },
+  {
+    "id": 320,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "It is soccer.",
+    "meaning": "Đó là bóng đá."
+  },
+  {
+    "id": 321,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "I like to run.",
+    "meaning": "Tôi thích chạy."
+  },
+  {
+    "id": 322,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Running is easy.",
+    "meaning": "Chạy bộ thật dễ dàng."
+  },
+  {
+    "id": 323,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Let's play now.",
+    "meaning": "Chúng ta hãy chơi ngay bây giờ."
+  },
+  {
+    "id": 324,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "What is your sport?",
+    "meaning": "Môn thể thao của bạn là gì?"
+  },
+  {
+    "id": 325,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "I play volleyball.",
+    "meaning": "Tôi chơi bóng chuyền."
+  },
+  {
+    "id": 326,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Volleyball is fun.",
+    "meaning": "Bóng chuyền rất vui."
+  },
+  {
+    "id": 327,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "We go to gym.",
+    "meaning": "Chúng tôi đi tập gym."
+  },
+  {
+    "id": 328,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Gym is good.",
+    "meaning": "Tập gym rất tốt."
+  },
+  {
+    "id": 329,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "He lifts weights.",
+    "meaning": "Anh ấy tập tạ."
+  },
+  {
+    "id": 330,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "She likes yoga.",
+    "meaning": "Cô ấy thích yoga."
+  },
+  {
+    "id": 331,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Yoga is relaxing.",
+    "meaning": "Yoga giúp thư giãn."
+  },
+  {
+    "id": 332,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Do you exercise?",
+    "meaning": "Bạn có tập thể dục không?"
+  },
+  {
+    "id": 333,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Yes, I walk.",
+    "meaning": "Vâng, tôi đi bộ."
+  },
+  {
+    "id": 334,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Walking is good.",
+    "meaning": "Đi bộ rất tốt."
+  },
+  {
+    "id": 335,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "I love sports day.",
+    "meaning": "Tôi yêu ngày hội thể thao."
+  },
+  {
+    "id": 336,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Let's play outside.",
+    "meaning": "Chúng ta hãy chơi bên ngoài."
+  },
+  {
+    "id": 337,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Is it a game?",
+    "meaning": "Đó có phải là một trò chơi không?"
+  },
+  {
+    "id": 338,
+    "level": "A1",
+    "topic": "Sports",
+    "cau_mau": "Yes, a sports game.",
+    "meaning": "Vâng, một trò chơi thể thao."
+  },
+  {
+    "id": 339,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "Hello. How are you?",
+    "meaning": "Chào bạn. Bạn có khỏe không?"
+  },
+  {
+    "id": 340,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "I am fine, thanks.",
+    "meaning": "Tôi khỏe, cảm ơn."
+  },
+  {
+    "id": 341,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "Good morning, everyone.",
+    "meaning": "Chào buổi sáng, mọi người."
+  },
+  {
+    "id": 342,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "See you later.",
+    "meaning": "Hẹn gặp lại bạn sau."
+  },
+  {
+    "id": 343,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "My name is Mai.",
+    "meaning": "Tên tôi là Mai."
+  },
+  {
+    "id": 344,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "Nice to meet you.",
+    "meaning": "Rất vui được gặp bạn."
+  },
+  {
+    "id": 345,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "Do you like coffee?",
+    "meaning": "Bạn có thích cà phê không?"
+  },
+  {
+    "id": 346,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "Yes, I like coffee.",
+    "meaning": "Vâng, tôi thích cà phê."
+  },
+  {
+    "id": 347,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "No, I do not.",
+    "meaning": "Không, tôi không thích."
+  },
+  {
+    "id": 348,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "What time is it?",
+    "meaning": "Bây giờ là mấy giờ?"
+  },
+  {
+    "id": 349,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "It is seven o'clock.",
+    "meaning": "Bây giờ là bảy giờ."
+  },
+  {
+    "id": 350,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "How old are you?",
+    "meaning": "Bạn bao nhiêu tuổi?"
+  },
+  {
+    "id": 351,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "I am twenty years old.",
+    "meaning": "Tôi hai mươi tuổi."
+  },
+  {
+    "id": 352,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "I wake up early.",
+    "meaning": "Tôi thức dậy sớm."
+  },
+  {
+    "id": 353,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "I eat breakfast now.",
+    "meaning": "Tôi ăn sáng bây giờ."
+  },
+  {
+    "id": 354,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "She drinks water.",
+    "meaning": "Cô ấy uống nước."
+  },
+  {
+    "id": 355,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "He goes to work.",
+    "meaning": "Anh ấy đi làm."
+  },
+  {
+    "id": 356,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "We watch TV.",
+    "meaning": "Chúng tôi xem TV."
+  },
+  {
+    "id": 357,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "They read a book.",
+    "meaning": "Họ đọc một cuốn sách."
+  },
+  {
+    "id": 358,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "I like to walk.",
+    "meaning": "Tôi thích đi bộ."
+  },
+  {
+    "id": 359,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "She cooks dinner.",
+    "meaning": "Cô ấy nấu bữa tối."
+  },
+  {
+    "id": 360,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "He cleans his room.",
+    "meaning": "Anh ấy dọn phòng của mình."
+  },
+  {
+    "id": 361,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "I go to bed.",
+    "meaning": "Tôi đi ngủ."
+  },
+  {
+    "id": 362,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "She sleeps well.",
+    "meaning": "Cô ấy ngủ ngon."
+  },
+  {
+    "id": 363,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "Please help me.",
+    "meaning": "Làm ơn giúp tôi."
+  },
+  {
+    "id": 364,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "Excuse me, please.",
+    "meaning": "Xin lỗi, làm ơn."
+  },
+  {
+    "id": 365,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "I am very tired.",
+    "meaning": "Tôi rất mệt."
+  },
+  {
+    "id": 366,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "This is my house.",
+    "meaning": "Đây là nhà của tôi."
+  },
+  {
+    "id": 367,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "That is a cat.",
+    "meaning": "Đó là một con mèo."
+  },
+  {
+    "id": 368,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "I need some help.",
+    "meaning": "Tôi cần một chút giúp đỡ."
+  },
+  {
+    "id": 369,
+    "level": "A1",
+    "topic": "Daily Life",
+    "cau_mau": "It is a nice day.",
+    "meaning": "Hôm nay là một ngày đẹp trời."
+  },
+  {
+    "id": 370,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "I like movies.",
+    "meaning": "Tôi thích phim."
+  },
+  {
+    "id": 371,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "Do you like movies?",
+    "meaning": "Bạn có thích phim không?"
+  },
+  {
+    "id": 372,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "Let's watch a movie.",
+    "meaning": "Chúng ta hãy xem một bộ phim."
+  },
+  {
+    "id": 373,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "What movie is good?",
+    "meaning": "Phim gì hay?"
+  },
+  {
+    "id": 374,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "I watch TV shows.",
+    "meaning": "Tôi xem chương trình TV."
+  },
+  {
+    "id": 375,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "This movie is fun.",
+    "meaning": "Bộ phim này vui."
+  },
+  {
+    "id": 376,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "The movie starts now.",
+    "meaning": "Phim bắt đầu bây giờ."
+  },
+  {
+    "id": 377,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "Is it a good movie?",
+    "meaning": "Đó có phải là phim hay không?"
+  },
+  {
+    "id": 378,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "I like action films.",
+    "meaning": "Tôi thích phim hành động."
+  },
+  {
+    "id": 379,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "He likes comedy.",
+    "meaning": "Anh ấy thích phim hài."
+  },
+  {
+    "id": 380,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "She watches thrillers.",
+    "meaning": "Cô ấy xem phim kinh dị."
+  },
+  {
+    "id": 381,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "We like cartoons.",
+    "meaning": "Chúng tôi thích phim hoạt hình."
+  },
+  {
+    "id": 382,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "They love old movies.",
+    "meaning": "Họ yêu phim cũ."
+  },
+  {
+    "id": 383,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "Is the movie short?",
+    "meaning": "Phim có ngắn không?"
+  },
+  {
+    "id": 384,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "The movie is long.",
+    "meaning": "Bộ phim dài."
+  },
+  {
+    "id": 385,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "Let's buy popcorn.",
+    "meaning": "Chúng ta mua bỏng ngô đi."
+  },
+  {
+    "id": 386,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "I drink soda.",
+    "meaning": "Tôi uống nước ngọt."
+  },
+  {
+    "id": 387,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "The cinema is open.",
+    "meaning": "Rạp chiếu phim mở cửa."
+  },
+  {
+    "id": 388,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "I want to see it.",
+    "meaning": "Tôi muốn xem nó."
+  },
+  {
+    "id": 389,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "What kind of movie?",
+    "meaning": "Phim loại gì?"
+  },
+  {
+    "id": 390,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "I like sad movies.",
+    "meaning": "Tôi thích phim buồn."
+  },
+  {
+    "id": 391,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "He likes happy movies.",
+    "meaning": "Anh ấy thích phim vui."
+  },
+  {
+    "id": 392,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "This movie is new.",
+    "meaning": "Bộ phim này mới."
+  },
+  {
+    "id": 393,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "That movie is old.",
+    "meaning": "Bộ phim kia cũ rồi."
+  },
+  {
+    "id": 394,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "Let's watch at home.",
+    "meaning": "Chúng ta xem ở nhà đi."
+  },
+  {
+    "id": 395,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "Do you have a TV?",
+    "meaning": "Bạn có TV không?"
+  },
+  {
+    "id": 396,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "I watch movies online.",
+    "meaning": "Tôi xem phim trực tuyến."
+  },
+  {
+    "id": 397,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "Is it on TV?",
+    "meaning": "Nó có trên TV không?"
+  },
+  {
+    "id": 398,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "The ticket is cheap.",
+    "meaning": "Vé rẻ."
+  },
+  {
+    "id": 399,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "The ticket is expensive.",
+    "meaning": "Vé đắt."
+  },
+  {
+    "id": 400,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "I enjoy scary movies.",
+    "meaning": "Tôi thích phim đáng sợ."
+  },
+  {
+    "id": 401,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "Let's pick a movie.",
+    "meaning": "Chúng ta chọn một bộ phim đi."
+  },
+  {
+    "id": 402,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "The actors are good.",
+    "meaning": "Các diễn viên giỏi."
+  },
+  {
+    "id": 403,
+    "level": "A1",
+    "topic": "Movies",
+    "cau_mau": "The story is good.",
+    "meaning": "Câu chuyện hay."
+  },
+  {
+    "id": 404,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "I like music.",
+    "meaning": "Tôi thích âm nhạc."
+  },
+  {
+    "id": 405,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "Do you sing?",
+    "meaning": "Bạn có hát không?"
+  },
+  {
+    "id": 406,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "She plays guitar.",
+    "meaning": "Cô ấy chơi đàn ghi-ta."
+  },
+  {
+    "id": 407,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "He likes piano.",
+    "meaning": "Anh ấy thích đàn piano."
+  },
+  {
+    "id": 408,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "Listen to this song.",
+    "meaning": "Nghe bài hát này."
+  },
+  {
+    "id": 409,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "This song is good.",
+    "meaning": "Bài hát này hay."
+  },
+  {
+    "id": 410,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "I love pop music.",
+    "meaning": "Tôi yêu nhạc pop."
+  },
+  {
+    "id": 411,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "Do you dance?",
+    "meaning": "Bạn có nhảy không?"
+  },
+  {
+    "id": 412,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "Music makes me happy.",
+    "meaning": "Âm nhạc làm tôi vui."
+  },
+  {
+    "id": 413,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "He likes rock.",
+    "meaning": "Anh ấy thích nhạc rock."
+  },
+  {
+    "id": 414,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "We listen often.",
+    "meaning": "Chúng tôi thường xuyên nghe."
+  },
+  {
+    "id": 415,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "Sing with me.",
+    "meaning": "Hát cùng tôi."
+  },
+  {
+    "id": 416,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "This song is new.",
+    "meaning": "Bài hát này mới."
+  },
+  {
+    "id": 417,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "I play drums.",
+    "meaning": "Tôi chơi trống."
+  },
+  {
+    "id": 418,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "She plays violin.",
+    "meaning": "Cô ấy chơi đàn vi-ô-lông."
+  },
+  {
+    "id": 419,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "I like fast songs.",
+    "meaning": "Tôi thích những bài hát nhanh."
+  },
+  {
+    "id": 420,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "Do you have headphones?",
+    "meaning": "Bạn có tai nghe không?"
+  },
+  {
+    "id": 421,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "Turn up the music.",
+    "meaning": "Bật nhạc lớn lên."
+  },
+  {
+    "id": 422,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "Turn down the music.",
+    "meaning": "Giảm nhạc xuống."
+  },
+  {
+    "id": 423,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "What kind of music?",
+    "meaning": "Loại nhạc gì?"
+  },
+  {
+    "id": 424,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "I like classical.",
+    "meaning": "Tôi thích nhạc cổ điển."
+  },
+  {
+    "id": 425,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "He likes jazz.",
+    "meaning": "Anh ấy thích nhạc jazz."
+  },
+  {
+    "id": 426,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "We sing together.",
+    "meaning": "Chúng tôi hát cùng nhau."
+  },
+  {
+    "id": 427,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "This rhythm is nice.",
+    "meaning": "Nhịp điệu này hay."
+  },
+  {
+    "id": 428,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "Can you play?",
+    "meaning": "Bạn có thể chơi không?"
+  },
+  {
+    "id": 429,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "Music is fun.",
+    "meaning": "Âm nhạc thật vui."
+  },
+  {
+    "id": 430,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "She has a band.",
+    "meaning": "Cô ấy có một ban nhạc."
+  },
+  {
+    "id": 431,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "I like country music.",
+    "meaning": "Tôi thích nhạc đồng quê."
+  },
+  {
+    "id": 432,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "Let's go to concert.",
+    "meaning": "Hãy đi xem hòa nhạc."
+  },
+  {
+    "id": 433,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "Do you like concerts?",
+    "meaning": "Bạn có thích hòa nhạc không?"
+  },
+  {
+    "id": 434,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "My favorite singer.",
+    "meaning": "Ca sĩ yêu thích của tôi."
+  },
+  {
+    "id": 435,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "This melody is beautiful.",
+    "meaning": "Giai điệu này đẹp."
+  },
+  {
+    "id": 436,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "I like slow songs.",
+    "meaning": "Tôi thích những bài hát chậm."
+  },
+  {
+    "id": 437,
+    "level": "A1",
+    "topic": "Music",
+    "cau_mau": "Play some music.",
+    "meaning": "Bật nhạc đi."
+  },
+  {
+    "id": 438,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "Do you draw?",
+    "meaning": "Bạn có vẽ không?"
+  },
+  {
+    "id": 439,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "She reads books.",
+    "meaning": "Cô ấy đọc sách."
+  },
+  {
+    "id": 440,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "He loves sports.",
+    "meaning": "Anh ấy yêu thể thao."
+  },
+  {
+    "id": 441,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "What is your hobby?",
+    "meaning": "Sở thích của bạn là gì?"
+  },
+  {
+    "id": 442,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "My hobby is reading.",
+    "meaning": "Sở thích của tôi là đọc sách."
+  },
+  {
+    "id": 443,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "They watch movies.",
+    "meaning": "Họ xem phim."
+  },
+  {
+    "id": 444,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "I enjoy cooking.",
+    "meaning": "Tôi thích nấu ăn."
+  },
+  {
+    "id": 445,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "Do you like art?",
+    "meaning": "Bạn có thích nghệ thuật không?"
+  },
+  {
+    "id": 446,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "She sings songs.",
+    "meaning": "Cô ấy hát những bài hát."
+  },
+  {
+    "id": 447,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "We go walking.",
+    "meaning": "Chúng tôi đi bộ."
+  },
+  {
+    "id": 448,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "He likes to paint.",
+    "meaning": "Anh ấy thích vẽ."
+  },
+  {
+    "id": 449,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "Is it fun?",
+    "meaning": "Nó có vui không?"
+  },
+  {
+    "id": 450,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "Yes, it's fun.",
+    "meaning": "Vâng, nó vui."
+  },
+  {
+    "id": 451,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "I like gardening.",
+    "meaning": "Tôi thích làm vườn."
+  },
+  {
+    "id": 452,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "We listen to music.",
+    "meaning": "Chúng tôi nghe nhạc."
+  },
+  {
+    "id": 453,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "He takes photos.",
+    "meaning": "Anh ấy chụp ảnh."
+  },
+  {
+    "id": 454,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "What do you do?",
+    "meaning": "Bạn làm gì?"
+  },
+  {
+    "id": 455,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "Do you knit?",
+    "meaning": "Bạn có đan len không?"
+  },
+  {
+    "id": 456,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "She collects stamps.",
+    "meaning": "Cô ấy sưu tầm tem."
+  },
+  {
+    "id": 457,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "We go fishing.",
+    "meaning": "Chúng tôi đi câu cá."
+  },
+  {
+    "id": 458,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "He likes hiking.",
+    "meaning": "Anh ấy thích đi bộ đường dài."
+  },
+  {
+    "id": 459,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "Is that a hobby?",
+    "meaning": "Đó có phải là một sở thích không?"
+  },
+  {
+    "id": 460,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "Yes, it is.",
+    "meaning": "Vâng, đúng vậy."
+  },
+  {
+    "id": 461,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "I watch TV.",
+    "meaning": "Tôi xem TV."
+  },
+  {
+    "id": 462,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "Do you swim?",
+    "meaning": "Bạn có bơi không?"
+  },
+  {
+    "id": 463,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "She writes stories.",
+    "meaning": "Cô ấy viết truyện."
+  },
+  {
+    "id": 464,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "We like camping.",
+    "meaning": "Chúng tôi thích cắm trại."
+  },
+  {
+    "id": 465,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "He builds models.",
+    "meaning": "Anh ấy lắp mô hình."
+  },
+  {
+    "id": 466,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "What's your favorite?",
+    "meaning": "Sở thích yêu thích của bạn là gì?"
+  },
+  {
+    "id": 467,
+    "level": "A1",
+    "topic": "Hobbies",
+    "cau_mau": "My favorite is painting.",
+    "meaning": "Sở thích yêu thích của tôi là vẽ tranh."
+  },
+  {
+    "id": 468,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "I work here.",
+    "meaning": "Tôi làm việc ở đây."
+  },
+  {
+    "id": 469,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "You work there?",
+    "meaning": "Bạn làm việc ở đó à?"
+  },
+  {
+    "id": 470,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "He is busy.",
+    "meaning": "Anh ấy bận."
+  },
+  {
+    "id": 471,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "She works hard.",
+    "meaning": "Cô ấy làm việc chăm chỉ."
+  },
+  {
+    "id": 472,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "We have a meeting.",
+    "meaning": "Chúng ta có cuộc họp."
+  },
+  {
+    "id": 473,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "They are colleagues.",
+    "meaning": "Họ là đồng nghiệp."
+  },
+  {
+    "id": 474,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "What is your job?",
+    "meaning": "Công việc của bạn là gì?"
+  },
+  {
+    "id": 475,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "I am a manager.",
+    "meaning": "Tôi là quản lý."
+  },
+  {
+    "id": 476,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "He is a doctor.",
+    "meaning": "Anh ấy là bác sĩ."
+  },
+  {
+    "id": 477,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "She is a teacher.",
+    "meaning": "Cô ấy là giáo viên."
+  },
+  {
+    "id": 478,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "My job is good.",
+    "meaning": "Công việc của tôi tốt."
+  },
+  {
+    "id": 479,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "I like my job.",
+    "meaning": "Tôi thích công việc của mình."
+  },
+  {
+    "id": 480,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "Do you like your job?",
+    "meaning": "Bạn có thích công việc của mình không?"
+  },
+  {
+    "id": 481,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "This is my office.",
+    "meaning": "Đây là văn phòng của tôi."
+  },
+  {
+    "id": 482,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "Where do you work?",
+    "meaning": "Bạn làm việc ở đâu?"
+  },
+  {
+    "id": 483,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "I work in a hospital.",
+    "meaning": "Tôi làm việc ở bệnh viện."
+  },
+  {
+    "id": 484,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "He works at a school.",
+    "meaning": "Anh ấy làm việc ở trường."
+  },
+  {
+    "id": 485,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "She works from home.",
+    "meaning": "Cô ấy làm việc tại nhà."
+  },
+  {
+    "id": 486,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "We start work early.",
+    "meaning": "Chúng ta bắt đầu làm việc sớm."
+  },
+  {
+    "id": 487,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "They finish work late.",
+    "meaning": "Họ kết thúc công việc muộn."
+  },
+  {
+    "id": 488,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "I need a break.",
+    "meaning": "Tôi cần nghỉ giải lao."
+  },
+  {
+    "id": 489,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "Let's take a break.",
+    "meaning": "Hãy nghỉ giải lao đi."
+  },
+  {
+    "id": 490,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "Call me at work.",
+    "meaning": "Hãy gọi cho tôi ở chỗ làm."
+  },
+  {
+    "id": 491,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "I am at work now.",
+    "meaning": "Bây giờ tôi đang ở chỗ làm."
+  },
+  {
+    "id": 492,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "Is your work hard?",
+    "meaning": "Công việc của bạn có khó không?"
+  },
+  {
+    "id": 493,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "My work is easy.",
+    "meaning": "Công việc của tôi dễ."
+  },
+  {
+    "id": 494,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "He is my boss.",
+    "meaning": "Anh ấy là sếp của tôi."
+  },
+  {
+    "id": 495,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "She is my colleague.",
+    "meaning": "Cô ấy là đồng nghiệp của tôi."
+  },
+  {
+    "id": 496,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "We work together.",
+    "meaning": "Chúng ta làm việc cùng nhau."
+  },
+  {
+    "id": 497,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "Do you work today?",
+    "meaning": "Hôm nay bạn có làm việc không?"
+  },
+  {
+    "id": 498,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "I have a lot of work.",
+    "meaning": "Tôi có nhiều việc lắm."
+  },
+  {
+    "id": 499,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "What time do you start?",
+    "meaning": "Mấy giờ bạn bắt đầu?"
+  },
+  {
+    "id": 500,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "I start at nine.",
+    "meaning": "Tôi bắt đầu lúc chín giờ."
+  },
+  {
+    "id": 501,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "Is your company big?",
+    "meaning": "Công ty của bạn có lớn không?"
+  },
+  {
+    "id": 502,
+    "level": "A1",
+    "topic": "Work",
+    "cau_mau": "It is a small company.",
+    "meaning": "Đó là một công ty nhỏ."
+  },
+  {
+    "id": 503,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "I walk to school.",
+    "meaning": "Tôi đi bộ đến trường."
+  },
+  {
+    "id": 504,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "She takes a bus.",
+    "meaning": "Cô ấy đi xe buýt."
+  },
+  {
+    "id": 505,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "He rides a bike.",
+    "meaning": "Anh ấy đi xe đạp."
+  },
+  {
+    "id": 506,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "We go by car.",
+    "meaning": "Chúng tôi đi bằng ô tô."
+  },
+  {
+    "id": 507,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "They travel by train.",
+    "meaning": "Họ đi bằng tàu hỏa."
+  },
+  {
+    "id": 508,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "I like to fly.",
+    "meaning": "Tôi thích đi máy bay."
+  },
+  {
+    "id": 509,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "He drives a taxi.",
+    "meaning": "Anh ấy lái taxi."
+  },
+  {
+    "id": 510,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "She rides her scooter.",
+    "meaning": "Cô ấy đi xe tay ga của mình."
+  },
+  {
+    "id": 511,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "Let's take a boat.",
+    "meaning": "Chúng ta hãy đi thuyền."
+  },
+  {
+    "id": 512,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "The train is fast.",
+    "meaning": "Tàu hỏa nhanh."
+  },
+  {
+    "id": 513,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "The bus is late.",
+    "meaning": "Xe buýt bị trễ."
+  },
+  {
+    "id": 514,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "How do you go?",
+    "meaning": "Bạn đi bằng gì?"
+  },
+  {
+    "id": 515,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "I go by subway.",
+    "meaning": "Tôi đi bằng tàu điện ngầm."
+  },
+  {
+    "id": 516,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "Where is my car?",
+    "meaning": "Xe của tôi ở đâu?"
+  },
+  {
+    "id": 517,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "Take the next stop.",
+    "meaning": "Điểm dừng tiếp theo."
+  },
+  {
+    "id": 518,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "Get on the train.",
+    "meaning": "Lên tàu."
+  },
+  {
+    "id": 519,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "Get off the bus.",
+    "meaning": "Xuống xe buýt."
+  },
+  {
+    "id": 520,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "I walk a lot.",
+    "meaning": "Tôi đi bộ nhiều."
+  },
+  {
+    "id": 521,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "The plane is big.",
+    "meaning": "Máy bay to."
+  },
+  {
+    "id": 522,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "We need a map.",
+    "meaning": "Chúng ta cần một bản đồ."
+  },
+  {
+    "id": 523,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "Can I walk there?",
+    "meaning": "Tôi có thể đi bộ đến đó không?"
+  },
+  {
+    "id": 524,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "He likes his car.",
+    "meaning": "Anh ấy thích ô tô của mình."
+  },
+  {
+    "id": 525,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "She takes the tram.",
+    "meaning": "Cô ấy đi xe điện."
+  },
+  {
+    "id": 526,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "Is the bike new?",
+    "meaning": "Xe đạp mới phải không?"
+  },
+  {
+    "id": 527,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "I prefer walking.",
+    "meaning": "Tôi thích đi bộ hơn."
+  },
+  {
+    "id": 528,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "Let's find a taxi.",
+    "meaning": "Hãy tìm một chiếc taxi."
+  },
+  {
+    "id": 529,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "Is it a long ride?",
+    "meaning": "Chuyến đi có dài không?"
+  },
+  {
+    "id": 530,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "The stop is here.",
+    "meaning": "Trạm dừng ở đây."
+  },
+  {
+    "id": 531,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "He waits for the bus.",
+    "meaning": "Anh ấy đợi xe buýt."
+  },
+  {
+    "id": 532,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "We use public transport.",
+    "meaning": "Chúng tôi sử dụng phương tiện công cộng."
+  },
+  {
+    "id": 533,
+    "level": "A1",
+    "topic": "Transportation",
+    "cau_mau": "The car is red.",
+    "meaning": "Chiếc xe màu đỏ."
+  },
+  {
+    "id": 534,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "What is your food?",
+    "meaning": "Món ăn của bạn là gì?"
+  },
+  {
+    "id": 535,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "I like pho a lot.",
+    "meaning": "Tôi rất thích phở."
+  },
+  {
+    "id": 536,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "Do you like music?",
+    "meaning": "Bạn có thích âm nhạc không?"
+  },
+  {
+    "id": 537,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "Yes, I like music.",
+    "meaning": "Vâng, tôi thích âm nhạc."
+  },
+  {
+    "id": 538,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "What is your favorite festival?",
+    "meaning": "Lễ hội yêu thích của bạn là gì?"
+  },
+  {
+    "id": 539,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "My favorite is Tet.",
+    "meaning": "Yêu thích của tôi là Tết."
+  },
+  {
+    "id": 540,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "Is this a custom?",
+    "meaning": "Đây có phải là một phong tục không?"
+  },
+  {
+    "id": 541,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "Yes, it is a custom.",
+    "meaning": "Vâng, đó là một phong tục."
+  },
+  {
+    "id": 542,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "Do you drink tea?",
+    "meaning": "Bạn có uống trà không?"
+  },
+  {
+    "id": 543,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "I drink coffee.",
+    "meaning": "Tôi uống cà phê."
+  },
+  {
+    "id": 544,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "What do you wear?",
+    "meaning": "Bạn mặc gì?"
+  },
+  {
+    "id": 545,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "I wear a shirt.",
+    "meaning": "Tôi mặc áo sơ mi."
+  },
+  {
+    "id": 546,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "Is this an old house?",
+    "meaning": "Đây có phải là một ngôi nhà cũ không?"
+  },
+  {
+    "id": 547,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "Yes, it is very old.",
+    "meaning": "Vâng, nó rất cũ."
+  },
+  {
+    "id": 548,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "Do you know this song?",
+    "meaning": "Bạn có biết bài hát này không?"
+  },
+  {
+    "id": 549,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "No, I do not know.",
+    "meaning": "Không, tôi không biết."
+  },
+  {
+    "id": 550,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "What is a dance?",
+    "meaning": "Khiêu vũ là gì?"
+  },
+  {
+    "id": 551,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "Dance is movement.",
+    "meaning": "Khiêu vũ là chuyển động."
+  },
+  {
+    "id": 552,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "I like to draw.",
+    "meaning": "Tôi thích vẽ."
+  },
+  {
+    "id": 553,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "What is your language?",
+    "meaning": "Ngôn ngữ của bạn là gì?"
+  },
+  {
+    "id": 554,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "My language is English.",
+    "meaning": "Ngôn ngữ của tôi là tiếng Anh."
+  },
+  {
+    "id": 555,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "Do you have a pet?",
+    "meaning": "Bạn có thú cưng không?"
+  },
+  {
+    "id": 556,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "Yes, I have a cat.",
+    "meaning": "Vâng, tôi có một con mèo."
+  },
+  {
+    "id": 557,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "Is Sunday a holiday?",
+    "meaning": "Chủ Nhật có phải là ngày lễ không?"
+  },
+  {
+    "id": 558,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "No, it is not.",
+    "meaning": "Không, không phải vậy."
+  },
+  {
+    "id": 559,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "What is a tradition?",
+    "meaning": "Truyền thống là gì?"
+  },
+  {
+    "id": 560,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "A tradition is old.",
+    "meaning": "Một truyền thống là cũ."
+  },
+  {
+    "id": 561,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "Do you visit temples?",
+    "meaning": "Bạn có thăm chùa không?"
+  },
+  {
+    "id": 562,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "Yes, I visit temples.",
+    "meaning": "Vâng, tôi thăm chùa."
+  },
+  {
+    "id": 563,
+    "level": "A1",
+    "topic": "Culture",
+    "cau_mau": "My name is John.",
+    "meaning": "Tên của tôi là John."
+  },
+  {
+    "id": 564,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "I like my phone.",
+    "meaning": "Tôi thích điện thoại của tôi."
+  },
+  {
+    "id": 565,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "My phone is new.",
+    "meaning": "Điện thoại của tôi mới."
+  },
+  {
+    "id": 566,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "This is a tablet.",
+    "meaning": "Đây là một máy tính bảng."
+  },
+  {
+    "id": 567,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "It is a computer.",
+    "meaning": "Nó là một máy tính."
+  },
+  {
+    "id": 568,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "I use the internet.",
+    "meaning": "Tôi dùng internet."
+  },
+  {
+    "id": 569,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "The TV is big.",
+    "meaning": "TV rất lớn."
+  },
+  {
+    "id": 570,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Turn on the light.",
+    "meaning": "Bật đèn lên."
+  },
+  {
+    "id": 571,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Turn off the light.",
+    "meaning": "Tắt đèn đi."
+  },
+  {
+    "id": 572,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Play a game.",
+    "meaning": "Chơi một trò chơi."
+  },
+  {
+    "id": 573,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Watch a video.",
+    "meaning": "Xem một video."
+  },
+  {
+    "id": 574,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "My laptop is small.",
+    "meaning": "Máy tính xách tay của tôi nhỏ."
+  },
+  {
+    "id": 575,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Where is my charger?",
+    "meaning": "Sạc của tôi đâu rồi?"
+  },
+  {
+    "id": 576,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Is it charged?",
+    "meaning": "Nó đã được sạc chưa?"
+  },
+  {
+    "id": 577,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "This app is fun.",
+    "meaning": "Ứng dụng này vui."
+  },
+  {
+    "id": 578,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "I send a text.",
+    "meaning": "Tôi gửi một tin nhắn."
+  },
+  {
+    "id": 579,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Call me later.",
+    "meaning": "Gọi cho tôi sau."
+  },
+  {
+    "id": 580,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Listen to music.",
+    "meaning": "Nghe nhạc."
+  },
+  {
+    "id": 581,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Take a photo.",
+    "meaning": "Chụp một bức ảnh."
+  },
+  {
+    "id": 582,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Share the picture.",
+    "meaning": "Chia sẻ bức ảnh."
+  },
+  {
+    "id": 583,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Buy a new one.",
+    "meaning": "Mua một cái mới."
+  },
+  {
+    "id": 584,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Is it fast?",
+    "meaning": "Nó có nhanh không?"
+  },
+  {
+    "id": 585,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "The battery is low.",
+    "meaning": "Pin yếu rồi."
+  },
+  {
+    "id": 586,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Plug it in.",
+    "meaning": "Cắm sạc vào."
+  },
+  {
+    "id": 587,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Use the speaker.",
+    "meaning": "Dùng loa đi."
+  },
+  {
+    "id": 588,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "I have Wi-Fi.",
+    "meaning": "Tôi có Wi-Fi."
+  },
+  {
+    "id": 589,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "No signal here.",
+    "meaning": "Không có tín hiệu ở đây."
+  },
+  {
+    "id": 590,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "My email is new.",
+    "meaning": "Email của tôi mới."
+  },
+  {
+    "id": 591,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Read the news online.",
+    "meaning": "Đọc tin tức trực tuyến."
+  },
+  {
+    "id": 592,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Open the browser.",
+    "meaning": "Mở trình duyệt."
+  },
+  {
+    "id": 593,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Close the app.",
+    "meaning": "Đóng ứng dụng."
+  },
+  {
+    "id": 594,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Update your phone.",
+    "meaning": "Cập nhật điện thoại của bạn."
+  },
+  {
+    "id": 595,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Delete this file.",
+    "meaning": "Xóa tệp này."
+  },
+  {
+    "id": 596,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "Save my work.",
+    "meaning": "Lưu công việc của tôi."
+  },
+  {
+    "id": 597,
+    "level": "A1",
+    "topic": "Technology",
+    "cau_mau": "It is on mute.",
+    "meaning": "Nó đang tắt tiếng."
+  },
+  {
+    "id": 598,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "Look at the sky.",
+    "meaning": "Nhìn bầu trời."
+  },
+  {
+    "id": 599,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "The sun is bright.",
+    "meaning": "Mặt trời sáng."
+  },
+  {
+    "id": 600,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "I like flowers.",
+    "meaning": "Tôi thích hoa."
+  },
+  {
+    "id": 601,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "Trees are tall.",
+    "meaning": "Cây cao."
+  },
+  {
+    "id": 602,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "Is it a bird?",
+    "meaning": "Đó có phải là chim không?"
+  },
+  {
+    "id": 603,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "The grass is green.",
+    "meaning": "Cỏ xanh."
+  },
+  {
+    "id": 604,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "A big rock.",
+    "meaning": "Một tảng đá lớn."
+  },
+  {
+    "id": 605,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "I see a bee.",
+    "meaning": "Tôi thấy một con ong."
+  },
+  {
+    "id": 606,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "Water is clear.",
+    "meaning": "Nước trong."
+  },
+  {
+    "id": 607,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "The wind blows.",
+    "meaning": "Gió thổi."
+  },
+  {
+    "id": 608,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "A small ant.",
+    "meaning": "Một con kiến nhỏ."
+  },
+  {
+    "id": 609,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "Where is the park?",
+    "meaning": "Công viên ở đâu?"
+  },
+  {
+    "id": 610,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "I love nature.",
+    "meaning": "Tôi yêu thiên nhiên."
+  },
+  {
+    "id": 611,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "Feel the air.",
+    "meaning": "Cảm nhận không khí."
+  },
+  {
+    "id": 612,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "This is a lake.",
+    "meaning": "Đây là một cái hồ."
+  },
+  {
+    "id": 613,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "The river flows.",
+    "meaning": "Sông chảy."
+  },
+  {
+    "id": 614,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "Look at the leaves.",
+    "meaning": "Nhìn lá cây."
+  },
+  {
+    "id": 615,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "They are brown.",
+    "meaning": "Chúng màu nâu."
+  },
+  {
+    "id": 616,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "A blue sky.",
+    "meaning": "Bầu trời xanh."
+  },
+  {
+    "id": 617,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "The moon is up.",
+    "meaning": "Mặt trăng lên rồi."
+  },
+  {
+    "id": 618,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "Stars are pretty.",
+    "meaning": "Sao đẹp."
+  },
+  {
+    "id": 619,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "Hear the birds.",
+    "meaning": "Nghe tiếng chim."
+  },
+  {
+    "id": 620,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "The ocean is vast.",
+    "meaning": "Đại dương rộng lớn."
+  },
+  {
+    "id": 621,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "I like the beach.",
+    "meaning": "Tôi thích bãi biển."
+  },
+  {
+    "id": 622,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "Sand is warm.",
+    "meaning": "Cát ấm."
+  },
+  {
+    "id": 623,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "A little cloud.",
+    "meaning": "Một đám mây nhỏ."
+  },
+  {
+    "id": 624,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "The rain falls.",
+    "meaning": "Mưa rơi."
+  },
+  {
+    "id": 625,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "Smell the earth.",
+    "meaning": "Ngửi mùi đất."
+  },
+  {
+    "id": 626,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "This is a mountain.",
+    "meaning": "Đây là một ngọn núi."
+  },
+  {
+    "id": 627,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "The forest is quiet.",
+    "meaning": "Rừng yên tĩnh."
+  },
+  {
+    "id": 628,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "See the butterfly.",
+    "meaning": "Nhìn con bướm."
+  },
+  {
+    "id": 629,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "The path is muddy.",
+    "meaning": "Lối đi lầy lội."
+  },
+  {
+    "id": 630,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "Is it sunny?",
+    "meaning": "Trời có nắng không?"
+  },
+  {
+    "id": 631,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "The night is dark.",
+    "meaning": "Đêm tối."
+  },
+  {
+    "id": 632,
+    "level": "A1",
+    "topic": "Nature",
+    "cau_mau": "Enjoy the view.",
+    "meaning": "Tận hưởng cảnh đẹp."
+  },
+  {
+    "id": 633,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Hello.",
+    "meaning": "Xin chào."
+  },
+  {
+    "id": 634,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Hi.",
+    "meaning": "Chào."
+  },
+  {
+    "id": 635,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Good afternoon.",
+    "meaning": "Chào buổi chiều."
+  },
+  {
+    "id": 636,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "I'm fine.",
+    "meaning": "Tôi khỏe."
+  },
+  {
+    "id": 637,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "You're welcome.",
+    "meaning": "Không có gì."
+  },
+  {
+    "id": 638,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Goodbye.",
+    "meaning": "Tạm biệt."
+  },
+  {
+    "id": 639,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Bye bye.",
+    "meaning": "Tạm biệt."
+  },
+  {
+    "id": 640,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "See you.",
+    "meaning": "Hẹn gặp lại."
+  },
+  {
+    "id": 641,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "What's up?",
+    "meaning": "Có chuyện gì vậy?"
+  },
+  {
+    "id": 642,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Not much.",
+    "meaning": "Không có gì nhiều."
+  },
+  {
+    "id": 643,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "How do you do?",
+    "meaning": "Bạn có khỏe không? (lịch sự)"
+  },
+  {
+    "id": 644,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Pleased to meet you.",
+    "meaning": "Hân hạnh được gặp bạn."
+  },
+  {
+    "id": 645,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Have a nice day.",
+    "meaning": "Chúc một ngày tốt lành."
+  },
+  {
+    "id": 646,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "You too.",
+    "meaning": "Bạn cũng vậy."
+  },
+  {
+    "id": 647,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Good night.",
+    "meaning": "Chúc ngủ ngon."
+  },
+  {
+    "id": 648,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Sleep well.",
+    "meaning": "Ngủ ngon nhé."
+  },
+  {
+    "id": 649,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "How's it going?",
+    "meaning": "Mọi chuyện thế nào?"
+  },
+  {
+    "id": 650,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "It's going well.",
+    "meaning": "Mọi chuyện đang tốt đẹp."
+  },
+  {
+    "id": 651,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Long time no see.",
+    "meaning": "Lâu rồi không gặp."
+  },
+  {
+    "id": 652,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Good to see you.",
+    "meaning": "Vui được gặp bạn."
+  },
+  {
+    "id": 653,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Welcome back.",
+    "meaning": "Chào mừng trở lại."
+  },
+  {
+    "id": 654,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "How's everything?",
+    "meaning": "Mọi thứ thế nào?"
+  },
+  {
+    "id": 655,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Everything's good.",
+    "meaning": "Mọi thứ đều tốt."
+  },
+  {
+    "id": 656,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Take care.",
+    "meaning": "Bảo trọng nhé."
+  },
+  {
+    "id": 657,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "What's new?",
+    "meaning": "Có gì mới không?"
+  },
+  {
+    "id": 658,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Nothing much.",
+    "meaning": "Không có gì đặc biệt."
+  },
+  {
+    "id": 659,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Hello there.",
+    "meaning": "Chào bạn."
+  },
+  {
+    "id": 660,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Are you well?",
+    "meaning": "Bạn có khỏe không?"
+  },
+  {
+    "id": 661,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Hello!",
+    "meaning": "Xin chào!"
+  },
+  {
+    "id": 662,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "Hi there!",
+    "meaning": "Chào bạn!"
+  },
+  {
+    "id": 663,
+    "level": "A1",
+    "topic": "Greetings",
+    "cau_mau": "I'm fine, thanks.",
+    "meaning": "Tôi khỏe, cảm ơn."
+  },
+  {
+    "id": 664,
+    "level": "A2",
+    "topic": "Daily life",
+    "cau_mau": "I usually walk to school when the weather is nice.",
+    "meaning": "Tôi thường đi bộ đến trường khi thời tiết đẹp."
+  },
+  {
+    "id": 665,
+    "level": "A2",
+    "topic": "Travel",
+    "cau_mau": "Could you tell me how to get to the nearest bus stop?",
+    "meaning": "Bạn có thể chỉ tôi đường đến trạm xe buýt gần nhất không?"
+  },
+  {
+    "id": 666,
+    "level": "A2",
+    "topic": "Education",
+    "cau_mau": "I have been learning English for almost two years.",
+    "meaning": "Tôi đã học tiếng Anh gần hai năm."
+  },
+  {
+    "id": 667,
+    "level": "A2",
+    "topic": "Food",
+    "cau_mau": "We decided to cook dinner together instead of ordering food.",
+    "meaning": "Chúng tôi quyết định cùng nấu bữa tối thay vì gọi đồ ăn."
+  },
+  {
+    "id": 668,
+    "level": "A2",
+    "topic": "Hobbies",
+    "cau_mau": "My sister is interested in taking photographs of nature.",
+    "meaning": "Chị/em gái tôi thích chụp ảnh thiên nhiên."
+  },
+  {
+    "id": 669,
+    "level": "A2",
+    "topic": "Travel",
+    "cau_mau": "The train was delayed because of the heavy rain.",
+    "meaning": "Chuyến tàu bị hoãn vì mưa lớn."
+  },
+  {
+    "id": 670,
+    "level": "A2",
+    "topic": "Health",
+    "cau_mau": "You should drink enough water throughout the day.",
+    "meaning": "Bạn nên uống đủ nước trong ngày."
+  },
+  {
+    "id": 671,
+    "level": "A2",
+    "topic": "Daily life",
+    "cau_mau": "I forgot to bring my umbrella, so I got completely wet.",
+    "meaning": "Tôi quên mang ô nên bị ướt sũng."
+  },
+  {
+    "id": 672,
+    "level": "A2",
+    "topic": "Travel",
+    "cau_mau": "There are several interesting museums in the city centre.",
+    "meaning": "Có một vài bảo tàng thú vị ở trung tâm thành phố."
+  },
+  {
+    "id": 673,
+    "level": "A2",
+    "topic": "Communication",
+    "cau_mau": "Would you mind speaking a little more slowly, please?",
+    "meaning": "Bạn có phiền nói chậm hơn một chút không?"
+  },
+  {
+    "id": 674,
+    "level": "A2",
+    "topic": "Shopping",
+    "cau_mau": "I am saving money because I want to buy a new laptop.",
+    "meaning": "Tôi đang tiết kiệm tiền vì muốn mua một chiếc máy tính mới."
+  },
+  {
+    "id": 675,
+    "level": "A2",
+    "topic": "Food",
+    "cau_mau": "The restaurant was crowded, but the service was excellent.",
+    "meaning": "Nhà hàng đông khách nhưng dịch vụ rất tuyệt."
+  },
+  {
+    "id": 676,
+    "level": "A2",
+    "topic": "Travel",
+    "cau_mau": "My friends and I are planning a trip during the summer holiday.",
+    "meaning": "Tôi và bạn bè đang lên kế hoạch cho chuyến đi vào kỳ nghỉ hè."
+  },
+  {
+    "id": 677,
+    "level": "A2",
+    "topic": "Daily life",
+    "cau_mau": "It takes about twenty minutes to get to work by bicycle.",
+    "meaning": "Đi xe đạp đến chỗ làm mất khoảng hai mươi phút."
+  },
+  {
+    "id": 678,
+    "level": "A2",
+    "topic": "Hobbies",
+    "cau_mau": "I prefer reading a book to watching television in the evening.",
+    "meaning": "Tôi thích đọc sách hơn xem ti vi vào buổi tối."
+  },
+  {
+    "id": 679,
+    "level": "A2",
+    "topic": "Education",
+    "cau_mau": "The teacher asked us to work in pairs and discuss the topic.",
+    "meaning": "Giáo viên yêu cầu chúng tôi làm việc theo cặp và thảo luận chủ đề."
+  },
+  {
+    "id": 680,
+    "level": "A2",
+    "topic": "Health",
+    "cau_mau": "If you feel tired, you should take a short break.",
+    "meaning": "Nếu cảm thấy mệt, bạn nên nghỉ giải lao một lát."
+  },
+  {
+    "id": 681,
+    "level": "A2",
+    "topic": "Shopping",
+    "cau_mau": "I bought this jacket because it was comfortable and affordable.",
+    "meaning": "Tôi mua chiếc áo khoác này vì nó thoải mái và giá hợp lý."
+  },
+  {
+    "id": 682,
+    "level": "A2",
+    "topic": "Leisure",
+    "cau_mau": "We couldn't go swimming because the water was too cold.",
+    "meaning": "Chúng tôi không thể đi bơi vì nước quá lạnh."
+  },
+  {
+    "id": 683,
+    "level": "A2",
+    "topic": "Home",
+    "cau_mau": "Please remember to turn off the lights before you leave.",
+    "meaning": "Hãy nhớ tắt đèn trước khi rời đi."
+  },
+  {
+    "id": 684,
+    "level": "A2",
+    "topic": "Entertainment",
+    "cau_mau": "The film was more exciting than I expected.",
+    "meaning": "Bộ phim thú vị hơn tôi mong đợi."
+  },
+  {
+    "id": 685,
+    "level": "A2",
+    "topic": "Education",
+    "cau_mau": "She has already finished her homework, so she can join us.",
+    "meaning": "Cô ấy đã làm xong bài tập nên có thể tham gia cùng chúng tôi."
+  },
+  {
+    "id": 686,
+    "level": "A2",
+    "topic": "Services",
+    "cau_mau": "I would like to make an appointment for Friday afternoon.",
+    "meaning": "Tôi muốn đặt lịch hẹn vào chiều thứ Sáu."
+  },
+  {
+    "id": 687,
+    "level": "A2",
+    "topic": "Food",
+    "cau_mau": "Although it was expensive, the meal was worth the money.",
+    "meaning": "Mặc dù đắt, bữa ăn rất đáng tiền."
+  },
+  {
+    "id": 688,
+    "level": "A2",
+    "topic": "Travel",
+    "cau_mau": "We need to check the weather forecast before setting off.",
+    "meaning": "Chúng ta cần kiểm tra dự báo thời tiết trước khi khởi hành."
+  },
+  {
+    "id": 689,
+    "level": "B1",
+    "topic": "Education",
+    "cau_mau": "One of the biggest challenges is finding a balance between study and free time.",
+    "meaning": "Một trong những thử thách lớn nhất là cân bằng việc học và thời gian rảnh."
+  },
+  {
+    "id": 690,
+    "level": "B1",
+    "topic": "Daily life",
+    "cau_mau": "I tend to make a list of tasks whenever I have a busy week ahead.",
+    "meaning": "Tôi thường lập danh sách công việc khi biết trước mình sẽ có một tuần bận rộn."
+  },
+  {
+    "id": 691,
+    "level": "B1",
+    "topic": "Environment",
+    "cau_mau": "Public transport can reduce traffic congestion and improve air quality.",
+    "meaning": "Phương tiện công cộng có thể giảm ùn tắc giao thông và cải thiện chất lượng không khí."
+  },
+  {
+    "id": 692,
+    "level": "B1",
+    "topic": "Travel",
+    "cau_mau": "Even though the journey took longer than expected, we enjoyed every moment.",
+    "meaning": "Dù chuyến đi kéo dài hơn dự kiến, chúng tôi vẫn tận hưởng từng khoảnh khắc."
+  },
+  {
+    "id": 693,
+    "level": "B1",
+    "topic": "Communication",
+    "cau_mau": "It is important to consider different points of view before making a decision.",
+    "meaning": "Điều quan trọng là cân nhắc các quan điểm khác nhau trước khi quyết định."
+  },
+  {
+    "id": 694,
+    "level": "B1",
+    "topic": "Technology",
+    "cau_mau": "Many people find it difficult to concentrate when their phones keep ringing.",
+    "meaning": "Nhiều người thấy khó tập trung khi điện thoại liên tục đổ chuông."
+  },
+  {
+    "id": 695,
+    "level": "B1",
+    "topic": "Personal growth",
+    "cau_mau": "I was disappointed at first, but the experience taught me to be more patient.",
+    "meaning": "Ban đầu tôi thất vọng, nhưng trải nghiệm đó dạy tôi kiên nhẫn hơn."
+  },
+  {
+    "id": 696,
+    "level": "B1",
+    "topic": "Community",
+    "cau_mau": "The local community has organised several events to support small businesses.",
+    "meaning": "Cộng đồng địa phương đã tổ chức nhiều sự kiện để hỗ trợ doanh nghiệp nhỏ."
+  },
+  {
+    "id": 697,
+    "level": "B1",
+    "topic": "Work",
+    "cau_mau": "If we plan carefully, we should be able to finish the project on time.",
+    "meaning": "Nếu lên kế hoạch cẩn thận, chúng ta có thể hoàn thành dự án đúng hạn."
+  },
+  {
+    "id": 698,
+    "level": "B1",
+    "topic": "Education",
+    "cau_mau": "Learning a language becomes easier when you practise a little every day.",
+    "meaning": "Việc học ngôn ngữ trở nên dễ dàng hơn khi bạn luyện tập một chút mỗi ngày."
+  },
+  {
+    "id": 699,
+    "level": "B1",
+    "topic": "Technology",
+    "cau_mau": "The article explains how social media influences the way teenagers communicate.",
+    "meaning": "Bài báo giải thích mạng xã hội ảnh hưởng thế nào đến cách thanh thiếu niên giao tiếp."
+  },
+  {
+    "id": 700,
+    "level": "B1",
+    "topic": "Environment",
+    "cau_mau": "Rather than throwing things away, we should try to repair or reuse them.",
+    "meaning": "Thay vì vứt đồ đi, chúng ta nên cố sửa chữa hoặc tái sử dụng chúng."
+  },
+  {
+    "id": 701,
+    "level": "B1",
+    "topic": "Work",
+    "cau_mau": "She managed to solve the problem by asking her colleagues for advice.",
+    "meaning": "Cô ấy đã giải quyết được vấn đề bằng cách xin lời khuyên từ đồng nghiệp."
+  },
+  {
+    "id": 702,
+    "level": "B1",
+    "topic": "Travel",
+    "cau_mau": "The hotel offered a discount because our room was not ready on arrival.",
+    "meaning": "Khách sạn giảm giá vì phòng của chúng tôi chưa sẵn sàng khi đến."
+  },
+  {
+    "id": 703,
+    "level": "B1",
+    "topic": "Education",
+    "cau_mau": "Although online courses are convenient, they require a great deal of self-discipline.",
+    "meaning": "Mặc dù khóa học trực tuyến tiện lợi, chúng đòi hỏi tính tự giác cao."
+  },
+  {
+    "id": 704,
+    "level": "B1",
+    "topic": "Work",
+    "cau_mau": "I had to change my plans at the last minute due to an unexpected meeting.",
+    "meaning": "Tôi phải thay đổi kế hoạch vào phút chót vì một cuộc họp bất ngờ."
+  },
+  {
+    "id": 705,
+    "level": "B1",
+    "topic": "Community",
+    "cau_mau": "Volunteering gives young people an opportunity to develop useful skills.",
+    "meaning": "Hoạt động tình nguyện giúp người trẻ có cơ hội phát triển những kỹ năng hữu ích."
+  },
+  {
+    "id": 706,
+    "level": "B1",
+    "topic": "Work",
+    "cau_mau": "The company introduced flexible working hours to improve employees' wellbeing.",
+    "meaning": "Công ty áp dụng giờ làm linh hoạt để cải thiện sức khỏe và tinh thần của nhân viên."
+  },
+  {
+    "id": 707,
+    "level": "B1",
+    "topic": "Media",
+    "cau_mau": "We should check whether the information comes from a reliable source.",
+    "meaning": "Chúng ta nên kiểm tra xem thông tin có đến từ nguồn đáng tin cậy không."
+  },
+  {
+    "id": 708,
+    "level": "B1",
+    "topic": "Education",
+    "cau_mau": "The more regularly you review new vocabulary, the easier it is to remember.",
+    "meaning": "Bạn ôn từ vựng mới càng thường xuyên thì càng dễ ghi nhớ."
+  },
+  {
+    "id": 709,
+    "level": "B1",
+    "topic": "Communication",
+    "cau_mau": "He apologised for being late and explained what had happened on the way.",
+    "meaning": "Anh ấy xin lỗi vì đến muộn và giải thích chuyện đã xảy ra trên đường."
+  },
+  {
+    "id": 710,
+    "level": "B1",
+    "topic": "Health",
+    "cau_mau": "A healthy lifestyle involves getting enough sleep as well as exercising.",
+    "meaning": "Lối sống lành mạnh bao gồm ngủ đủ giấc cũng như tập thể dục."
+  },
+  {
+    "id": 711,
+    "level": "B1",
+    "topic": "Culture",
+    "cau_mau": "The exhibition was so popular that tickets sold out within a few hours.",
+    "meaning": "Triển lãm nổi tiếng đến mức vé đã bán hết chỉ trong vài giờ."
+  },
+  {
+    "id": 712,
+    "level": "B1",
+    "topic": "Communication",
+    "cau_mau": "I would rather discuss the issue calmly than argue about it online.",
+    "meaning": "Tôi muốn thảo luận vấn đề một cách bình tĩnh hơn là tranh cãi trực tuyến."
+  },
+  {
+    "id": 713,
+    "level": "B1",
+    "topic": "Environment",
+    "cau_mau": "Small changes in our daily habits can have a positive effect on the environment.",
+    "meaning": "Những thay đổi nhỏ trong thói quen hằng ngày có thể tác động tích cực đến môi trường."
+  },
+  {
+    "id": 714,
+    "level": "B2",
+    "topic": "Work",
+    "cau_mau": "Despite the initial difficulties, the team eventually developed a practical solution.",
+    "meaning": "Bất chấp những khó khăn ban đầu, nhóm cuối cùng đã phát triển được một giải pháp thiết thực."
+  },
+  {
+    "id": 715,
+    "level": "B2",
+    "topic": "Technology",
+    "cau_mau": "The widespread use of artificial intelligence has raised questions about privacy and responsibility.",
+    "meaning": "Việc sử dụng trí tuệ nhân tạo rộng rãi đã làm dấy lên những câu hỏi về quyền riêng tư và trách nhiệm."
+  },
+  {
+    "id": 716,
+    "level": "B2",
+    "topic": "Critical thinking",
+    "cau_mau": "It is worth examining the evidence carefully before drawing any firm conclusions.",
+    "meaning": "Cần xem xét bằng chứng cẩn thận trước khi đưa ra kết luận chắc chắn."
+  },
+  {
+    "id": 717,
+    "level": "B2",
+    "topic": "Economy",
+    "cau_mau": "While economic growth creates opportunities, it can also place pressure on natural resources.",
+    "meaning": "Trong khi tăng trưởng kinh tế tạo ra cơ hội, nó cũng có thể gây áp lực lên tài nguyên thiên nhiên."
+  },
+  {
+    "id": 718,
+    "level": "B2",
+    "topic": "Work",
+    "cau_mau": "The proposal was rejected, not because it lacked potential, but because the timing was unsuitable.",
+    "meaning": "Đề xuất bị bác bỏ không phải vì thiếu tiềm năng mà vì thời điểm chưa phù hợp."
+  },
+  {
+    "id": 719,
+    "level": "B2",
+    "topic": "Communication",
+    "cau_mau": "Being able to communicate complex ideas clearly is an essential professional skill.",
+    "meaning": "Khả năng truyền đạt ý tưởng phức tạp một cách rõ ràng là kỹ năng nghề nghiệp thiết yếu."
+  },
+  {
+    "id": 720,
+    "level": "B2",
+    "topic": "Health",
+    "cau_mau": "The research suggests that regular physical activity may improve both mood and concentration.",
+    "meaning": "Nghiên cứu cho thấy hoạt động thể chất thường xuyên có thể cải thiện tâm trạng và khả năng tập trung."
+  },
+  {
+    "id": 721,
+    "level": "B2",
+    "topic": "Society",
+    "cau_mau": "Although the policy was intended to help residents, its implementation proved surprisingly complicated.",
+    "meaning": "Mặc dù chính sách được thiết kế để hỗ trợ cư dân, việc triển khai lại phức tạp ngoài dự kiến."
+  },
+  {
+    "id": 722,
+    "level": "B2",
+    "topic": "Media",
+    "cau_mau": "People are more likely to trust information when the source is transparent about its methods.",
+    "meaning": "Mọi người có xu hướng tin thông tin hơn khi nguồn công khai rõ ràng về phương pháp của mình."
+  },
+  {
+    "id": 723,
+    "level": "B2",
+    "topic": "Culture",
+    "cau_mau": "The museum's new exhibition explores how migration has shaped the region's cultural identity.",
+    "meaning": "Triển lãm mới của bảo tàng khám phá cách di cư định hình bản sắc văn hóa của khu vực."
+  },
+  {
+    "id": 724,
+    "level": "B2",
+    "topic": "Business",
+    "cau_mau": "Rather than focusing exclusively on short-term profits, businesses should consider their long-term impact.",
+    "meaning": "Thay vì chỉ tập trung vào lợi nhuận ngắn hạn, doanh nghiệp nên cân nhắc tác động dài hạn."
+  },
+  {
+    "id": 725,
+    "level": "B2",
+    "topic": "Personal growth",
+    "cau_mau": "The ability to adapt to unfamiliar situations is often more valuable than having a fixed plan.",
+    "meaning": "Khả năng thích nghi với tình huống xa lạ thường có giá trị hơn việc có một kế hoạch cố định."
+  },
+  {
+    "id": 726,
+    "level": "B2",
+    "topic": "Work",
+    "cau_mau": "Had we reviewed the figures more thoroughly, we might have noticed the error earlier.",
+    "meaning": "Nếu xem xét số liệu kỹ hơn, có lẽ chúng tôi đã nhận ra lỗi sớm hơn."
+  },
+  {
+    "id": 727,
+    "level": "B2",
+    "topic": "Technology",
+    "cau_mau": "The documentary challenges the assumption that technological progress always benefits everyone equally.",
+    "meaning": "Bộ phim tài liệu đặt câu hỏi về giả định rằng tiến bộ công nghệ luôn mang lại lợi ích công bằng cho tất cả mọi người."
+  },
+  {
+    "id": 728,
+    "level": "B2",
+    "topic": "Environment",
+    "cau_mau": "In order to tackle climate change effectively, governments and individuals need to work together.",
+    "meaning": "Để giải quyết biến đổi khí hậu hiệu quả, chính phủ và cá nhân cần hợp tác với nhau."
+  },
+  {
+    "id": 729,
+    "level": "B2",
+    "topic": "Critical thinking",
+    "cau_mau": "What distinguishes a convincing argument is not confidence alone, but the quality of its evidence.",
+    "meaning": "Điều làm nên một lập luận thuyết phục không chỉ là sự tự tin mà còn là chất lượng bằng chứng."
+  },
+  {
+    "id": 730,
+    "level": "B2",
+    "topic": "Work",
+    "cau_mau": "The manager encouraged staff to express concerns openly instead of allowing frustration to build up.",
+    "meaning": "Người quản lý khuyến khích nhân viên bày tỏ lo ngại cởi mở thay vì để sự bực bội tích tụ."
+  },
+  {
+    "id": 731,
+    "level": "B2",
+    "topic": "Society",
+    "cau_mau": "Access to reliable public information is essential for informed decision-making.",
+    "meaning": "Tiếp cận thông tin công cộng đáng tin cậy là điều thiết yếu để đưa ra quyết định có hiểu biết."
+  },
+  {
+    "id": 732,
+    "level": "B2",
+    "topic": "Research",
+    "cau_mau": "The findings should be interpreted with caution, since the sample size was relatively small.",
+    "meaning": "Các phát hiện cần được diễn giải thận trọng vì cỡ mẫu tương đối nhỏ."
+  },
+  {
+    "id": 733,
+    "level": "B2",
+    "topic": "Business",
+    "cau_mau": "Had the company invested in staff training earlier, the transition would have been much smoother.",
+    "meaning": "Nếu công ty đầu tư đào tạo nhân viên sớm hơn, quá trình chuyển đổi đã suôn sẻ hơn nhiều."
+  },
+  {
+    "id": 734,
+    "level": "B2",
+    "topic": "Work",
+    "cau_mau": "Although remote work offers greater flexibility, it may make collaboration more demanding.",
+    "meaning": "Mặc dù làm việc từ xa linh hoạt hơn, nó có thể khiến việc hợp tác đòi hỏi nhiều nỗ lực hơn."
+  },
+  {
+    "id": 735,
+    "level": "B2",
+    "topic": "Communication",
+    "cau_mau": "The speaker presented a balanced perspective, acknowledging both the benefits and the limitations.",
+    "meaning": "Diễn giả đưa ra góc nhìn cân bằng, thừa nhận cả lợi ích lẫn hạn chế."
+  },
+  {
+    "id": 736,
+    "level": "B2",
+    "topic": "Critical thinking",
+    "cau_mau": "A sustainable solution must address the causes of a problem rather than merely its symptoms.",
+    "meaning": "Một giải pháp bền vững phải xử lý nguyên nhân của vấn đề thay vì chỉ các biểu hiện của nó."
+  },
+  {
+    "id": 737,
+    "level": "B2",
+    "topic": "Research",
+    "cau_mau": "The study highlights the importance of distinguishing correlation from causation.",
+    "meaning": "Nghiên cứu nhấn mạnh tầm quan trọng của việc phân biệt tương quan với quan hệ nhân quả."
+  },
+  {
+    "id": 738,
+    "level": "B2",
+    "topic": "Personal growth",
+    "cau_mau": "Ultimately, meaningful progress depends on consistent effort and a willingness to learn from mistakes.",
+    "meaning": "Sau cùng, tiến bộ có ý nghĩa phụ thuộc vào nỗ lực bền bỉ và sự sẵn lòng học từ sai lầm."
+  }
+]

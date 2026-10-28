@@ -1,0 +1,10 @@
+{
+  "name": "Remix Eng AI For Learn",
+  "description": "Sử dụng AI tích hợp vào việc học tiếng anh giúp người dùng hiểu rõ hơn cũng như dễ tiếp thu hơn trong việc học.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
